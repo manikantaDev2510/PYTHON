@@ -1,0 +1,11 @@
+name = input("Enter your name :")
+age = input("Enter your age :")
+city = input("Enter your city :")
+country = input("Enter your country :")
+learning = input("Enter your language :")
+
+print(name)
+print(age)
+print(city)
+print(country)
+print(learning)
